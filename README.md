@@ -17,7 +17,7 @@ An interactive Sales Analytics Dashboard built using Power BI, SQL, and Microsof
 
 ## 📊 Dashboard Preview
 
-![Dashboard](./Screenshot%202026-07-21%20041403.png)
+![Dashboard](dashboard-overview.png)
 
 ## 🔍 Key Insights
 - Total Sales reached **574K**.
